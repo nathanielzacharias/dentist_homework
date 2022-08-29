@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dentist_homework/static/css/main.3be36971.chunk.css",
+    "main.js": "/dentist_homework/static/js/main.8e1531e8.chunk.js",
+    "main.js.map": "/dentist_homework/static/js/main.8e1531e8.chunk.js.map",
+    "runtime~main.js": "/dentist_homework/static/js/runtime~main.c93b112c.js",
+    "runtime~main.js.map": "/dentist_homework/static/js/runtime~main.c93b112c.js.map",
+    "static/js/2.7ef4ad68.chunk.js": "/dentist_homework/static/js/2.7ef4ad68.chunk.js",
+    "static/js/2.7ef4ad68.chunk.js.map": "/dentist_homework/static/js/2.7ef4ad68.chunk.js.map",
+    "index.html": "/dentist_homework/index.html",
+    "precache-manifest.c7820977628a5d8683ca28e6e9219682.js": "/dentist_homework/precache-manifest.c7820977628a5d8683ca28e6e9219682.js",
+    "service-worker.js": "/dentist_homework/service-worker.js",
+    "static/css/main.3be36971.chunk.css.map": "/dentist_homework/static/css/main.3be36971.chunk.css.map"
+  }
+}
